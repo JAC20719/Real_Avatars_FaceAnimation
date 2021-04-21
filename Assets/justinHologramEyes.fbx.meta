@@ -3,7 +3,47 @@ guid: 61a49f5aba23a7f47abe876b5ea8faf4
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 73ddf2e27abd919429ed686e0e7897d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beard
+    second: {fileID: 2100000, guid: b8d2a9d1157da774dbc1bcc9d4f9cbb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: facial
+    second: {fileID: 2100000, guid: b8d2a9d1157da774dbc1bcc9d4f9cbb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gums
+    second: {fileID: 2100000, guid: 2b93d56d35ca16648aa185954a9605bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mustache
+    second: {fileID: 2100000, guid: b8d2a9d1157da774dbc1bcc9d4f9cbb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skinLow
+    second: {fileID: 2100000, guid: 13ea9e554de6b5d49bfe43ad6b078c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: 64c592f23ec9f5443bc9bac87360e11f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue
+    second: {fileID: 2100000, guid: c1a15e0c8e1db45468a5a1e9d7234244, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
