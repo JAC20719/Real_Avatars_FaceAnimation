@@ -96,7 +96,7 @@ Material:
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FresnelColor: {r: 0.8309794, g: 1.9465226, b: 4.5171185, a: 1}
+    - _FresnelColor: {r: 0.61616695, g: 1.395417, b: 3.1860344, a: 1}
     - _HologramTiling: {r: 6, g: 6, b: 0, a: 0}
-    - _MainColor: {r: 0.21542363, g: 0.37978834, b: 0.9716981, a: 1}
+    - _MainColor: {r: 0.21568625, g: 0.6258447, b: 0.972549, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
